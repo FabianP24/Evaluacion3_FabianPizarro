@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "951747962967",
+    "project_id": "evaluacioniii-ee80e",
+    "storage_bucket": "evaluacioniii-ee80e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951747962967:android:5a2c211a62a88ecba61b12",
+        "android_client_info": {
+          "package_name": "com.example.evaluacion3_fabianpizarro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "951747962967-k60pu7ht3sopj1odafubsameknuhtrjf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLq7VQ3MulCGumMcCinxZPA0gN884UrdE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "951747962967-k60pu7ht3sopj1odafubsameknuhtrjf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
